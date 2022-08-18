@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My site</title><link>http://www.example.com/</link><description>Recent content on My site</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>CV</title><link>http://www.example.com/cv/</link><pubDate>Thu, 18 Aug 2022 15:47:56 +0200</pubDate><guid>http://www.example.com/cv/</guid><description> Experiences Link to heading Project Engineer - Kongsberg Defence &amp;amp; Aerospace AS
+Aug 2022 - Present
+Education Link to heading Bachelor of Engineering in Computer Science - Norwegian University of Science and Technology
+Aug 2019 - June 2022
+Programming Languages Link to heading C++ C# Go Java JavaScript Python PHP</description></item></channel></rss>

@@ -1,0 +1,10 @@
+.about-left {
+    float: left;
+}
+
+.give-padding {
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    color: red;
+}
